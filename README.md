@@ -60,7 +60,7 @@ If you find this project useful in your research, please consider cite:
 @article{liu2024simple,
   title={A Simple Image Segmentation Framework via In-Context Examples},
   author={Liu, Yang and Jing, Chenchen and Li, Hengtao and Zhu, Muzhi and Chen, Hao and Wang, Xinlong and Shen, Chunhua},
-  journal={Proc. Conference on Neural Information Processing Systems},
+  journal={Proc. Int. Conference on Neural Information Processing Systems (NeurIPS)},
   year={2024}
 }
 ```

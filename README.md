@@ -24,6 +24,12 @@ NeurIPS 2024
 
 ## 📖 Description
 
+### Overview
+- This paper proposes a simple yet effective image segmentation framework that leverages in-context examples.
+- The approach allows users to provide a few annotated examples within an image, which the model then uses to segment the rest of the image.
+- The framework is designed to be intuitive and user-friendly, enabling non-expert users to perform accurate image segmentation.
+
+- In detail:
 Recently, there have been explorations of generalist segmentation models that can effectively tackle a variety of image segmentation tasks within a unified in-context learning framework. 
 However, these methods still struggle with task ambiguity in in-context segmentation, as not all in-context examples can accurately convey the task information. 
 In order to address this issue, we present SINE, a simple image **S**egmentation framework utilizing **in**-context **e**xamples. 

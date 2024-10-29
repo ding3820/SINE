@@ -37,8 +37,8 @@ model_ts*.txt
 _darcs
 
 datasets/
-**/datasets/
+#**/datasets/
 outputs/
 **/outputs/
 models/
-**/models/
+#**/models/

@@ -41,7 +41,7 @@ python tools/train.py \
     --update_freq ${uf} \
     --dinov2-size ${model} \
     --dinov2-weights ${model_path} \
-    --save_ckpt_freq 10 \
+    --save_ckpt_freq 5 \
     --dataset "pano_seg||ins_seg" \
     --sample_rate "2,5" \
     --pano_seg_data "coco||ade20k" \

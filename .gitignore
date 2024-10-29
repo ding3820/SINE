@@ -36,9 +36,9 @@ model_ts*.txt
 .vscode
 _darcs
 
-datasets/
+#datasets/
 #**/datasets/
 outputs/
 **/outputs/
-models/
+#models/
 #**/models/
